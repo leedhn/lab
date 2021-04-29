@@ -7,6 +7,7 @@ https://drive.google.com/drive/folders/1ATYRUBqtHC8uCTo53ky54-mvQdpyNo0m?usp=sha
 
 ##mnli
 
+https://github.com/leedhn/lab/blob/main/mnli.ipynb
 
 ##cedr
 
